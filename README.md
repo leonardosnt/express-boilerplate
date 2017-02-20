@@ -1,1 +1,1 @@
-# gomix-express-boilerplate
+# express-boilerplate
