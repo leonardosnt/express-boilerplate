@@ -1,5 +1,5 @@
 {
-  "name": "gomix-express-boilerplate",
+  "name": "express-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,6 +9,6 @@
   "dependencies": {
     "express": "^4.14.0"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "leonardosnt",
+  "license": "GPL-2.0"
 }
